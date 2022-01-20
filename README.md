@@ -6,4 +6,6 @@ Working on HeroesOfPymoli - Purchase analysis Gender
 
 Purchasing Analysis (Gender) - completed
 
-Working on Age grouping
+Working on Age grouping - completed
+
+Working on Purchase Analysis
