@@ -11,3 +11,5 @@ Working on Age grouping - completed
 Working on Purchase Analysis
 
 Done all the way to Top Spenders - missing # Most Popular Items and # Most Profitable Items
+
+All completed - missing some comments and clean-up
